@@ -4,7 +4,6 @@ dependencies:
   - pip
   - pip:
       - notebook==7.5.3
-      - joblib==1.5.3
       - matplotlib==3.10.8
       - scienceplots==2.2.0
       - netket==3.21.0
